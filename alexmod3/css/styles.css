@@ -1,0 +1,57 @@
+body {
+	background-color: Whitesmoke;
+	font-family: comic sans ms;
+}
+* {
+	box-sizing: border-box;
+}
+
+.navbar {
+	background-color: #FFE4B5;
+	border: 1px solid black;
+
+}
+.navbar-default .navbar-brand {
+	font-weight: bold;
+	color: #000000;
+
+}
+
+#nav-list {
+	margin-bottom: 0px;
+    margin-top: 0px;
+    background-color:  #FFEFD5;
+}
+
+#nav-list a {
+	font-weight: bold;
+	color: #000000;
+	text-align: center;
+	border: 1px solid black;
+
+}
+
+
+
+
+h1 {
+	margin-bottom: 40px;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.section {
+	background-color: LightGray;
+}
+.psection {
+	width: 95%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.title {
+	text-align: center;
+	font-size: 140%;
+	padding-top: 10px;
+	font-weight: bold;
+}
